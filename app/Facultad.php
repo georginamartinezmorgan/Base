@@ -7,6 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class Facultad extends Model
 {
     protected $fillable = [
-        'Codigo', 'Descripcion', 'CantidadEdificios' ,'NombreDecano'
+        'Codigo1', 'Descripcion', 'CantidadEdificios' ,'NombreDecano'
   ];
 }
